@@ -39,8 +39,13 @@ Borrow out = A'Bin + A'B + BBin
 **Truthtable**
 
 **Procedure**
+Compile and run the program.
 
-Write the detailed procedure here
+Generate the RTL schematic and save the logic diagram.
+
+Create nodes for inputs and outputs to generate the timing diagram.
+
+For different input combinations generate the timing diagram.
 
 **Program:**
 ```
